@@ -13,7 +13,7 @@ apply plugin: 'idea'
 apply plugin: 'spring-boot'
 
 jar {
-    baseName = 'neo4j'
+    baseName = 'boot-neo4j'
     version =  '0.1.0'
 }
 
