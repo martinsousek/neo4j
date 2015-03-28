@@ -1,0 +1,9 @@
+/.gradle/2.1/taskArtifacts
+/.gradle/2.3/taskArtifacts
+/.idea
+/build/classes/main/hello/*.class
+/build/distributions
+/build/libs
+/build/scripts
+/build/tmp/jar
+/gradlew.bat
